@@ -42,6 +42,7 @@ StudentManagementSystem/
 ├── StudentGUI.java
 ├── .gitignore
 └── README.md
+└── screenshot1.png
 ```
 
 ---
@@ -92,4 +93,4 @@ Mohammad
 
 ## 💡 Screenshot
 
-(Add a screenshot of your program here)
+![App Screenshot](screenshot1.png)
